@@ -1,0 +1,21 @@
+.add-form {
+    width: 80vw;
+    height: 200px;
+    background-color: grey;
+    margin: 25px;
+    padding: 15px;
+}
+
+.input-section {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+}
+
+.add-form-input {
+    width: 275px;
+    margin: 20px;
+}
